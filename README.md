@@ -3,8 +3,8 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
+<img width="450px;" src="https://github.com/shubhamraj-24/Shubham-Raj-Portfolio/blob/main/images/s1.png"/>
+<img width="450px;" src="https://github.com/shubhamraj-24/Shubham-Raj-Portfolio/blob/main/images/s2.png"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
