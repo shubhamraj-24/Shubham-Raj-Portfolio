@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shubham-Raj-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Shubham-Raj-Portfolio/static/js/main.b5af2248.js",
+    "static/media/HeroImage.jpg": "/Shubham-Raj-Portfolio/static/media/HeroImage.77c75d3a320357fde10f.jpg",
+    "index.html": "/Shubham-Raj-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Shubham-Raj-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.b5af2248.js.map": "/Shubham-Raj-Portfolio/static/js/main.b5af2248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b5af2248.js"
+  ]
+}
